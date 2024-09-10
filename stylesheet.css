@@ -1,0 +1,33 @@
+.main {
+    display: flex;
+}
+ul {
+    display: flex;
+}
+.left {
+    width:50%;
+
+}
+.right {
+    width: 50%;
+
+}
+li {
+    list-style-type: none;
+    padding-left: 10px;
+}
+.ima {
+    text-align: center;
+}
+.row {
+    display: flex;
+    background-color: rgb(201, 194, 194);
+    margin: 20px;
+}
+.img {
+    padding-right: 30px;
+}
+.ram {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
